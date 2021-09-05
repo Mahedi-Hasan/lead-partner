@@ -6,15 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Please clone and run:
-<<<<<<< HEAD
-npm install or yearn install and after that, npm start
-=======
-npm install
-or yearn install
-and after that,
-npm start
->>>>>>> a1653b79ec0d045d721d35d06e0c53cab5bb6dc7
+Please clone and run: npm install or yearn install and after that, npm start
 
 ### `npm start`
 
