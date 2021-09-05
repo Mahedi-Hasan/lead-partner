@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Please clone and run:
+npm install
+or yearn install
+and after that,
+npm start
 
 ### `npm start`
 
