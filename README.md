@@ -1,10 +1,13 @@
+### I apologize, I couldn't test, cause I am not that much familiar with testing, but I've started learning about testing with the "Jest js". And I also could not use toggling and transitions for details view cause I could not pay sufficiant time and I was a little bit busy for my office project since last fifteen days.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+Please clone and run:
+npm install or yearn install and after that, npm start
 
 ### `npm start`
 
