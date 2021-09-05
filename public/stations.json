@@ -1,0 +1,38 @@
+[
+    
+    {
+        "id": 1,
+        "albumId": 66.6,
+        "title": "Putin FM",
+        "thumbnailUrl": "https://via.placeholder.com/150/54176f",
+        "url": "https://via.placeholder.com/150/54176f"
+    },
+    {
+        "id": 2,
+        "albumId": 101.2,
+        "title": "Dribbble FM",
+        "thumbnailUrl": "https://via.placeholder.com/150/51aa97",
+        "url": "https://via.placeholder.com/150/51aa97f"
+    },
+    {
+        "id": 3,
+        "albumId": 99.4,
+        "title": "Doge FM",
+        "thumbnailUrl": "https://via.placeholder.com/150/54176f",
+        "url": "https://via.placeholder.com/150/54176f"
+    },
+    {
+        "id": 4,
+        "albumId": 87.1,
+        "title": "Ballads FM",
+        "thumbnailUrl": "https://via.placeholder.com/150/810b14",
+        "url": "https://via.placeholder.com/150/810b14"
+    },
+    {
+        "id": 5,
+        "albumId": 142.2,
+        "title": "Maximum FM",
+        "thumbnailUrl": "https://via.placeholder.com/150/54176f",
+        "url": "https://via.placeholder.com/150/66b7d2"
+    }
+]
